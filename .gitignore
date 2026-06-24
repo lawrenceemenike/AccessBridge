@@ -1,9 +1,0 @@
-node_modules/
-.venv/
-__pycache__/
-chroma_db/
-*.json
-!src/data/*.json
-!package.json
-!governance_audit_report.json
-.env
